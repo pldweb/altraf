@@ -1,0 +1,13 @@
+.dashboard-content {
+  .nav-pills {
+    .nav-link {
+
+      color: #8d8d8d;
+
+      &.active {
+        background-color: $primary-color;
+        color: white;
+      }
+    }
+  }
+}

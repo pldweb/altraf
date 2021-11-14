@@ -1,0 +1,10 @@
+.section-success {
+  h2 {
+    font-weight: 600;
+  }
+
+  .btn-signup {
+    @include button-variant(#f3f3f3, transparent);
+    color: #bbbbbb; 
+  }
+}

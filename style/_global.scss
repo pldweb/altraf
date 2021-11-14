@@ -1,0 +1,28 @@
+body {
+  font-family: "Inter", sans-serif;
+  overflow-x: hidden;
+}
+
+
+$primary-color: #28A745;
+
+.page-content {
+  margin-top: 95px;
+}
+
+footer {
+  border-top: 1px solid #eaeaea;
+  margin-top: 100px;
+
+  p {
+    color: #979797;
+  }
+}
+
+.form-control {
+  background-color: #f3f3f3;
+}
+
+h2 {
+  color: #232323;
+}

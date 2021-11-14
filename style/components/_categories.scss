@@ -1,0 +1,24 @@
+a.component-categories {
+  background-color: #f4f4f4;
+  border-radius: 8px;
+  padding: 30px 30px 10px 30px;
+  text-decoration: none;
+  margin-bottom: 30px;
+
+  &:hover  .categories-image{
+    transform: scale(1.1);
+  }
+
+  .categories-text {
+    text-align: center;
+    font-weight: 500;
+    color: #232323;
+  }
+
+  .categories-image {
+    margin-bottom: 10px;
+    transition: .4s ease;
+  }
+  
+}
+
