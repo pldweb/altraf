@@ -9910,7 +9910,7 @@ h3 {
     border-color: #dee2e6;
   }
 }
-body {
+html, body {
   font-family: "Inter", sans-serif;
   overflow-x: hidden;
 }
